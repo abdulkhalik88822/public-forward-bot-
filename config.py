@@ -6,7 +6,7 @@ class Config:
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "5967250731:AAHdc_fnsJlewcP9UdKOfGPG939oVOhMY60")
     BOT_SESSION = os.environ.get("BOT_SESSION", "forwardbot")
     OWNER_ID = os.environ.get("OWNER_ID", "5851749250")                             
-    DATABASE_URI = os.environ.get("DATABASE_URI", "mongodb+srv://abdul744:abdul744@cluster0.o6jx2be.mongodb.net/?retryWrites=true&w=majority")  
+    DATABASE_URI = os.environ.get("DATABASE_URI", "mongodb+srv://kailash:pass@cluster0.sqtztxm.mongodb.net/?retryWrites=true&w=majority")  
     DATABASE_NAME = os.environ.get("DATABASE_NAME", "Cluste0")
     COLLECTION_NAME = os.environ.get('COLLECTION_NAME', 'Data')
     SESSION = os.environ.get("SESSION", "BQDBAFLoCXuypc9k3QbPnjdmEzFTas5xXgYhnCh7IvSMFZSa6pZ0m7wWjXk2urD4yg_v1WfElxaEUmfvzZTs5Tx2Doux1m0xjHAwi_WCbbR9AinOFq-T6cFAnvSHCEXQCy5dp8gHYI5Av90FTArFCqL_aRINEk2qPFhXeDWsLZSZq07oLS05KZCcd1sJ1DHqXe773acovncAQxbiecWnrrORN1_6k1sw3-hiSUfRZPV_REx0dMVEsS4wol0g9eg7XIBwr1HF90O0_2dGavHbsc5QLNpjjW4Wg8lUU8G-BiQYpzyqGdYoc0CqxUjI4CqIj11o8CkrwcWB08OM3FnmX7FnAAAAATppF3IA")   
